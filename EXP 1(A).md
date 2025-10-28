@@ -93,9 +93,11 @@ void loop(){
  delay(5000); //iterate every 5 seconds
 }
 ```
+# Output
+<img width="1010" height="247" alt="image" src="https://github.com/user-attachments/assets/1a48b168-3d53-405b-842e-d11436041730" />
+
 
 # Result
 
 The experiment to measure the temperature using the DHT11/DHT22/TMP36 sensor with Arduino UNO on Tinkercad has been successfully completed and verified. The system was able to accurately sense and display temperature (in both Celsius and Fahrenheit) and humidity values through the Arduino serial monitor. All procedure steps, including hardware setup, circuit simulation, and code validation, were performed as planned. The experimental results confirm the circuit and program function as intended.
 
-<img width="1010" height="247" alt="image" src="https://github.com/user-attachments/assets/1a48b168-3d53-405b-842e-d11436041730" />
